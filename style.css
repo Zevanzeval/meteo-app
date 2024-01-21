@@ -36,6 +36,14 @@ a {
   font-size: 16px;
   border-radius: 6px;
   color: white;
+
+  transition: all 200ms ease-in-out;
+}
+
+.search-form-button:hover {
+  color: white;
+  background-color: #ffdcf5;
+  cursor: pointer;
 }
 
 main {
